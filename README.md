@@ -1,27 +1,21 @@
 Hi 👋, I'm
 IVAN YANCHEV
 Subtitle
-A passionate frontend developer from India
-Work
+A passionate frontend developer from UKRAINE
+IM STUDENT IN SCHOOOOOOL
 🔭 I’m currently working on
-project name
-project link
-👯 I’m looking to collaborate on
-project name
-project link
-🤝 I’m looking for help with
-project name
-project link
+project name: ISAAC MEGASHUTEROGMGMMGMMGM
 🌱 I’m currently learning
 Frameworks, courses etc.
 💬 Ask me about
 react, vue and gsap
 📫 How to reach me
-example@gmail.com
+imafamily2801@gmail.com
 👨‍💻 All of my projects are available at
-portfolio link
+*detected*
 📝 I regularly write articles on
-blog link
+*detected*
 📄 Know about my experiences
-resume link
+*detected*
 ⚡ Fun fact
+I CREATE THE BEST GAME
